@@ -1,5 +1,4 @@
 gjfjyfjvj
-<<<<<<< HEAD
+
 Marcin
-=======
->>>>>>> 98763890a45c52398c34eef5934fe8c0ae6f1da3
+
